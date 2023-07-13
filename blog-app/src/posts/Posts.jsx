@@ -1,15 +1,18 @@
+import Post from "../post/Post"
 import "./posts.css"
 
-export default function posts() {
+export default function Posts() {
   return (
     <div className="posts">
-        <post/>
-        <post/>
-        <post/>
-        <post/>
-        <post/>
-        <post/>
+      <Post/>
+      <Post/>
+      <Post/>
+      <Post/>
+      <Post/>
+      <Post/>
+      <Post/>
+      <Post/>
 
     </div>
-  )
+  );
 }
