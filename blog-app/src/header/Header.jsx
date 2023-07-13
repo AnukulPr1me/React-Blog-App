@@ -9,7 +9,7 @@ export default function Header() {
 
         </div>
 
-        <img className="headerImg" src="https://c4.wallpaperflare.com/wallpaper/664/373/122/forest-mikael-gustafsson-landscape-horizon-wallpaper-preview.jpg" alt="" 
+        <img className="headerImg" src="https://media.tenor.com/ALNC4ej41tAAAAAd/shinobu-kocho.gif" alt="" 
         
         
         />
