@@ -19,7 +19,7 @@ export default function SinglePost() {
               <span className="singlePostTime">1 hour ago</span>
             </div>
 
-            <p>
+            <p className = "singlePostDesc">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, 
               beatae explicabo! Sapiente facilis ducimus odit labore, 
               sunt harum ea minus quo quisquam atque reiciendis aperiam, 

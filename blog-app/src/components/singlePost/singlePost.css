@@ -22,3 +22,46 @@
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 20px;
 }
+
+.singlePostEdit{
+    float: right;
+    font-size: 16px;
+}
+
+.singlePostIcon{
+    margin-left: 10px;
+    cursor: pointer;
+}
+.singlePostIcon:first-child{
+    color: teal;
+}
+
+.singlePostIcon:last-child{
+    color: tomato;
+}
+
+.singlePostInfo{
+    border-bottom: 20px ;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    color: #b39656;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+.singlePostDesc{
+    color: #666;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 18px;
+    line-height: 25px;
+
+}
+
+.singlePostDesc::first-letter{
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+
