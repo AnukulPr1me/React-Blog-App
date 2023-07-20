@@ -5,7 +5,7 @@ export default function Write() {
     <div className="write">
       <img 
         className="writeImg"
-        src="" alt="" 
+        src="https://images5.alphacoders.com/131/1318408.png" alt="" 
       />
         <form className="writeForm">
             <div className="writeFormGroup">
