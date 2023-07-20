@@ -1,13 +1,13 @@
 
 import './App.css';
 import TopBar from './components/TopBar/TopBar'
-import Settings from './pages/settings/Settings';
+import Register from './pages/register/Register';
 function App() {
   return (
     <> 
       <TopBar/>
 
-      <Settings/>
+      <Register/>
     </>
   );
 }
